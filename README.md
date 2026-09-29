@@ -1,6 +1,6 @@
 # Hola, soy Luka
 
-Trabajo en product marketing y construyo herramientas para conectar información, decisiones y ejecución. Me interesa combinar datos, automatización, interfaces e IA aplicada para resolver problemas concretos.
+construyo herramientas para conectar información, decisiones y ejecución. Me interesa combinar datos, automatización, interfaces e IA aplicada para resolver problemas concretos.
 
 ## Proyectos para explorar
 
